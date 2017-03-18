@@ -1,0 +1,2 @@
+# ip
+Obliczanie adresacji IP
